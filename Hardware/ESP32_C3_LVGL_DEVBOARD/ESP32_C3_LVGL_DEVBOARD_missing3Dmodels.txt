@@ -1,0 +1,12 @@
+### Missing 3D models - created on 2025-01-04 14:42
+### Printed by checking_3D_models plugin
+Board file: /media/ankit/external_hdd/sandbox/ESP32 C3 Antenna Test/Hardware/ESP32_C3_LVGL_DEVBOARD/ESP32_C3_LVGL_DEVBOARD.kicad_pcb
+3D missing models written to:
+/media/ankit/external_hdd/sandbox/ESP32 C3 Antenna Test/Hardware/ESP32_C3_LVGL_DEVBOARD/ESP32_C3_LVGL_DEVBOARD_missing3Dmodels.txt
+-------
+('U5', '/media/ankit/external_hdd/sandbox/KICAD_LIBS/3D/FLASH/Winbond-W25Q64JVSSIQ.STEP')
+('J3', '/usr/share/kicad/3dmodels/Connector_Coaxial.3dshapes/U.FL_Molex_MCRF_73412-0110_Vertical.wrl')
+('D3', '/usr/share/kicad/3dmodels/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl')
+-------
+NUM of 3D missing models:3
+checked extensions ['.stp', '.step', '.stpZ']

@@ -1,0 +1,1 @@
+[('U5', '/media/ankit/external_hdd/sandbox/KICAD_LIBS/3D/FLASH/Winbond-W25Q64JVSSIQ.STEP'), ('J3', '/usr/share/kicad/3dmodels/Connector_Coaxial.3dshapes/U.FL_Molex_MCRF_73412-0110_Vertical.wrl'), ('D3', '/usr/share/kicad/3dmodels/LED_SMD.3dshapes/LED_WS2812B-2020_PLCC4_2.0x2.0mm.wrl')]
