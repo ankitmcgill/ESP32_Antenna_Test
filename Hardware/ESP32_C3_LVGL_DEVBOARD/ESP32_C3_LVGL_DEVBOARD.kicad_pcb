@@ -90,7 +90,7 @@
 		(allow_soldermask_bridges_in_footprints no)
 		(pcbplotparams
 			(layerselection 0x00010fc_ffffffff)
-			(plot_on_all_layers_selection 0x00010fc_80000007)
+			(plot_on_all_layers_selection 0x0000000_00000000)
 			(disableapertmacros no)
 			(usegerberextensions yes)
 			(usegerberattributes no)
@@ -5626,7 +5626,7 @@
 		(descr "SMD rectangular pad as test Point, square 1.0mm side length")
 		(tags "test point SMD pad rectangle square")
 		(property "Reference" "TP3"
-			(at -0.415 -1.715 0)
+			(at -1.05 -2.15 135)
 			(layer "F.SilkS")
 			(uuid "2db4d44e-d13a-45df-bb55-7a76d48264bc")
 			(effects
