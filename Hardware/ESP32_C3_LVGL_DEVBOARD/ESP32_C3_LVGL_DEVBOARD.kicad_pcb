@@ -1838,7 +1838,7 @@
 				(xy 162.42 66.85) (xy 165.82 66.85)
 			)
 			(height -13.95)
-			(gr_text "133.8583 mils"
+			(gr_text "3.4000 mm"
 				(at 164.12 51.75 0)
 				(layer "User.1")
 				(uuid "060661ba-43c6-48ea-9f07-53793ea04b6e")
@@ -1871,7 +1871,7 @@
 				(xy 162.42 71.05) (xy 162.42 66.85)
 			)
 			(height -5.05)
-			(gr_text "165.3543 mils"
+			(gr_text "4.2000 mm"
 				(at 156.22 68.95 90)
 				(layer "User.1")
 				(uuid "16fbae48-78be-4c6f-a1fa-97ff6c366d16")
@@ -7494,7 +7494,7 @@
 				(xy 142.2 66.84) (xy 145.6 66.84)
 			)
 			(height -13.95)
-			(gr_text "133.8583 mils"
+			(gr_text "3.4000 mm"
 				(at 143.9 51.74 0)
 				(layer "User.1")
 				(uuid "7bcc94be-a713-4c8d-a8e2-6cd01e233b06")
@@ -7527,7 +7527,7 @@
 				(xy 142.2 71.04) (xy 142.2 66.84)
 			)
 			(height -5.05)
-			(gr_text "165.3543 mils"
+			(gr_text "4.2000 mm"
 				(at 136 68.94 90)
 				(layer "User.1")
 				(uuid "8e91ab57-b8a8-41ef-884d-0544ab3ebe66")
@@ -13273,7 +13273,7 @@
 		(path "/7b7ab693-dbec-471f-a4d1-7bddcfc19276")
 		(sheetname "Root")
 		(sheetfile "ESP32_C3_LVGL_DEVBOARD.kicad_sch")
-		(attr exclude_from_pos_files exclude_from_bom)
+		(attr exclude_from_pos_files dnp)
 		(net_tie_pad_groups "1,2")
 		(fp_poly
 			(pts
@@ -15061,8 +15061,9 @@
 		(descr "module CMS SOT223 4 pins")
 		(tags "CMS SOT")
 		(property "Reference" "U3"
-			(at 0 4.5 90)
+			(at 3.6175 4.49 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "34a85226-1d51-4d3c-b7f6-b63c24b4afc2")
 			(effects
 				(font
@@ -17668,7 +17669,7 @@
 			(xy 140.5 66.5) (xy 167.29825 66.5)
 		)
 		(height -23.6)
-		(gr_text "1055.0492 mils"
+		(gr_text "26.7982 mm"
 			(at 153.899125 41.75 0)
 			(layer "Dwgs.User")
 			(uuid "10f150c1-11ef-4505-bfdc-e39e8c136927")
@@ -17701,7 +17702,7 @@
 			(xy 141.5 65.5) (xy 141.5 105.5)
 		)
 		(height 26.1)
-		(gr_text "1574.8031 mils"
+		(gr_text "40.0000 mm"
 			(at 114.25 85.5 90)
 			(layer "Dwgs.User")
 			(uuid "8ad0a1f7-5181-4939-b1a1-ea928937f595")
